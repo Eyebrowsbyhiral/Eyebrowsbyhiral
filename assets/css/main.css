@@ -1495,7 +1495,7 @@ section {
   background-size: cover;
   position: relative;
   min-height: 60vh;
-  padding: 160px 0 60px 0;
+  padding: 160px 0 0px 0;
 }
 
 .hero h2 {
